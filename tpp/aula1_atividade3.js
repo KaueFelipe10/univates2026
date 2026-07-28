@@ -1,0 +1,1 @@
+/*3) implementar um programa que recebe dois números inteiros e depois informe se eles são primos relativos.*/

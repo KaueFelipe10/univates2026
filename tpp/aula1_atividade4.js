@@ -1,0 +1,1 @@
+/*4) implementar um programa que recebe um vetor de números double e depois retorna a média destes números, qual é o maior número, qual é o menor número, qual é o desvio padrão e qual é o desvio médio.*/
