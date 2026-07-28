@@ -31,5 +31,6 @@ public class aula1_atividade2 {
         } else {
         System.out.println("Não é primo.");
         }
+        entrada.close();
     }
-    }
+}
